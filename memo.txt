@@ -1,0 +1,14 @@
+linux 环境python3.6以上
+require:
+
+(yum install)
+python3-devel
+openldap-devel
+python3 python-mnemonic-master/setup.py install
+
+(pip install)
+bip32utils
+blocksmith
+secrets
+
+

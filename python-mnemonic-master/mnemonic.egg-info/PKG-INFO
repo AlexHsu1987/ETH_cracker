@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: mnemonic
+Version: 0.18
+Summary: Implementation of Bitcoin BIP-0039
+Home-page: https://github.com/trezor/python-mnemonic
+Author: Bitcoin TREZOR
+Author-email: info@trezor.io
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
