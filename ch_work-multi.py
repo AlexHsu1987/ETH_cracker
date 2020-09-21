@@ -132,7 +132,7 @@ if __name__ == '__main__':
              while i>0:
                  words.append(gen_words(12, dict_list,""))
                  i =i-1
-             if not dig_work(words):
+             if dig_work(words):
                  FT_send_msg()
              time.sleep(12)
     except Exception as main_err:
